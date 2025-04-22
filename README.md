@@ -1,2 +1,2 @@
 # Java practice tasks
-Java practice tasks
+HackerRank Java practice tasks.
